@@ -1,0 +1,3 @@
+[submodule "boards/iamadahn"]
+	path = boards/iamadahn
+	url = https://github.com/iamadahn/zephyr-rtos-boards
